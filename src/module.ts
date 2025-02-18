@@ -1,5 +1,5 @@
 import { createBroker } from 'broker-factory';
-import { TExtendableMediaRecorderWavEncoderWorkerDefinition } from 'extendable-media-recorder-wav-encoder-worker';
+import { TExtendableMediaRecorderWavEncoderWorkerDefinition } from 'extendable-media-recorder-wav-32-fp-encoder-worker';
 import { IExtendableMediaRecorderWavEncoderBrokerDefinition } from './interfaces';
 import { TExtendableMediaRecorderWavEncoderBrokerLoader, TExtendableMediaRecorderWavEncoderBrokerWrapper } from './types';
 
